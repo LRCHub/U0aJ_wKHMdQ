@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "INERTIA",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2025-12-01T07:56:55.880169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Inertia Creeps",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/01_Inertia_Creeps_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Inertia Creeps (Alpha remix)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/02_Inertia_Creeps_(Alpha_remix)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Inertia Creeps - Manic Street Preachers Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/03_Inertia_Creeps_-_Manic_Street_Preachers_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Inertia Creeps (Manic Street Preachers Version)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/04_Inertia_Creeps_(Manic_Street_Preachers_Version)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Inertia Creeps - Radio Edit",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/05_Inertia_Creeps_-_Radio_Edit_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Inertia Creeps (Radio Edit)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/06_Inertia_Creeps_(Radio_Edit)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Inertia Creeps - State Of Bengal Mix",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/07_Inertia_Creeps_-_State_Of_Bengal_Mix_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Inertia Creeps (State of Bengal Mix)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/08_Inertia_Creeps_(State_of_Bengal_Mix)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Inertia",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/09_Inertia_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Inertia (1996-03: radio broadcasting)",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/10_Inertia_(1996-03__radio_broadcasting)_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Inertia (Live)",
+      "artist": "Bruce Dickinson",
+      "has_synced": false,
+      "path": "select/11_Inertia_(Live)_Bruce_Dickinson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Inertia",
+      "artist": "Blur",
+      "has_synced": false,
+      "path": "select/12_Inertia_Blur.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Land of the Blind - Inertia Mix",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/13_Land_of_the_Blind_-_Inertia_Mix_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Inertia",
+      "artist": "Carbon Based Lifeforms",
+      "has_synced": false,
+      "path": "select/14_Inertia_Carbon_Based_Lifeforms.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Black Heart Inertia",
+      "artist": "Incubus",
+      "has_synced": true,
+      "path": "select/15_Black_Heart_Inertia_Incubus.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Black Heart Inertia (Album Version)",
+      "artist": "Incubus",
+      "has_synced": true,
+      "path": "select/16_Black_Heart_Inertia_(Album_Version)_Incubus.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Inertia",
+      "artist": "Insomnium",
+      "has_synced": true,
+      "path": "select/17_Inertia_Insomnium.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Inertia (feat. Tommy Karevik)",
+      "artist": "Ayreon feat. Tommy Karevik",
+      "has_synced": false,
+      "path": "select/18_Inertia_(feat._Tommy_Karevik)_Ayreon_feat._Tommy_Karevik.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Inertia",
+      "artist": "Ayreon",
+      "has_synced": false,
+      "path": "select/19_Inertia_Ayreon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "inertia",
+      "artist": "Co shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_inertia_Co_shu_Nie.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "inertia",
+      "artist": "Co shu Nie",
+      "has_synced": false,
+      "path": "select/pl_02_inertia_Co_shu_Nie.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Inertia",
+      "artist": "Co shu Nie",
+      "has_synced": false,
+      "path": "select/pl_03_Inertia_Co_shu_Nie.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Inertia",
+      "artist": "Co shu Nie",
+      "has_synced": false,
+      "path": "select/pl_04_Inertia_Co_shu_Nie.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "INERTIA",
+      "artist": "Co shu Nie",
+      "has_synced": false,
+      "path": "select/pl_05_INERTIA_Co_shu_Nie.txt"
+    }
+  ]
+}
